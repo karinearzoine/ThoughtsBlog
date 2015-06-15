@@ -7,7 +7,7 @@ baseurl:     "/thoughts"
 url:         "http://karine.arzoine.me/thoughts"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-64155403-1
 
 # Optional features
 animated:           true
