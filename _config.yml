@@ -3,8 +3,8 @@ title:       Karine Arzoine Thoughts
 email:       karine@arzoine.me 
 author:      Karine Arzoine
 description: "Hello there! I’m a financial mathematics student and I welcome you on my web site. Feel free to contact me if you have any questions concerning my prospective career,my blog or my tutoring services. I've recently learned that I was affected with the celiac disease. It has been a life changing discovery, and I would like to share some of my experiences with you."
-baseurl:     ""
-url:         "http://karine.arzoine.me/thougts"
+baseurl:     "/thoughts"
+url:         "http://karine.arzoine.me/thoughts"
 
 # Google analytics
 google_analytics:
@@ -39,7 +39,7 @@ share_stumbleupon: false
 share_hackernews: false
 
 # Build settings
-markdown:     redcarpet
+markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
