@@ -5,7 +5,7 @@ date:       2015-08-02 11:21:29
 summary:    My road to a diagnosis. Lupus? Lactose intolerance? IBS? Celiac Disease!  Listen to your body. You are your best doctor. Be aware of your body and how it responds to your environment.
 ---
 
-###Hello everyone! 
+###Hello! 
 It's my first time putting my thoughts into words. I am excited to start this journey with you, but I am also very nervous. I hope you will enjoy it. 
 
 Here it is. 
