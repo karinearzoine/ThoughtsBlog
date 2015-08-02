@@ -3,7 +3,6 @@ layout:     post
 title:      My first post
 date:       2015-08-02 11:21:29
 summary:    Diagnosis
-categories: jekyll pixyll
 ---
 
 ###Hello everyone! 
