@@ -11,7 +11,7 @@ It is my first time putting my thoughts in writing. I am excited to start this j
 
 Here it is. 
 
-At the age of 15, I've develop some dermatological problems on my face, mainly cheeks and eyes, and cheast. I would get these big red spots that could take days to leave. After seeing many doctors, I was diagnost with **[lupus](https://en.wikipedia.org/wiki/Systemic_lupus_erythematosus)**. It still didn't make any sens because it didn't explain all my symptoms.
+At the age of 15, I've develop some dermatological problems on my face, mainly cheeks and eyes, and cheast. I would get these big red spots that could take days to leave. After seeing many doctors, I was diagnost with [lupus](https://en.wikipedia.org/wiki/Systemic_lupus_erythematosus). It still didn't make any sens because it didn't explain all my symptoms.
 
 In January 2014, it really started to get bad. I was tired all the time, I couldn't concentrate in class, I was more moody than ever, I've develop hormonal disfonctions and I was so swollen that sometimes it got hard to breath, let alone get dressed. I stayed that way until June hoping it'll pass. I had to see a picture of myself to realize that something was wrong with my body and it wasn't lupus causing it. 
 
@@ -23,10 +23,10 @@ So, I went back to the basics. I looked at my environment and the food I was eat
 [Lactose intolerence ?](https://en.wikipedia.org/wiki/Lactose_intolerance)
 : I stop eating lactose for a week. Although I was feeling a little better, it wasn't it. 
 
-My sister-in-law tipped me by telling me that the fact that I would swell might be caused by  eating bread.
 
 [IBS ?](https://en.wikipedia.org/wiki/Irritable_bowel_syndrome)
 : It explained some symptoms but not all of them, so it wasn't it. 
+
 
  [Celiac disease ?](https://en.wikipedia.org/wiki/Coeliac_disease)
 : As I read through the symptoms, I could recognize myself. After so much research, I asked myself: could this really be it? I sent the list of symptoms to the people who knew me best i.e. my parents and my boyfriend. We all came to the same conclusion: it explained it all. 
