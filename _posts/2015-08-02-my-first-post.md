@@ -2,7 +2,7 @@
 layout:     post
 title:      My first post
 date:       2015-08-02 11:21:29
-summary:    Diagnosis
+summary:    My road to a diagnosis. Lupus? Lactose intolerence? IBS? Celiac Disease!  Listen to your body. You are your best doctor. Be aware of your body and how it responds to your environment.
 ---
 
 ###Hello everyone! 
