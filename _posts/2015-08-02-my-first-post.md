@@ -30,6 +30,6 @@ So, I went back to the basics. I looked at my environment and the food I was eat
  [Celiac disease ?](https://en.wikipedia.org/wiki/Coeliac_disease)
 : As I read through the list of symptoms, I could recognize myself. After so much research, I asked myself: could this really be it? I sent the list to the people who knew me best i.e. my parents and my boyfriend. We all came to the same conclusion: it explained it all. 
 
-That's how I discovered that all my life, the answer way right in front of me. For so many years I poisoned myself eating gluten. It also caused me to develop a lactose intolerance. 
+That's how I discovered that, all my life, the answer was right in front of me. For so many years I poisoned myself eating gluten. It also caused me to develop a lactose intolerance. 
 
 My lesson for you is **listen to your body. You are your best doctor.** Be aware of your body and how it responds to your environment. Sometimes the answer is right in front of you.
