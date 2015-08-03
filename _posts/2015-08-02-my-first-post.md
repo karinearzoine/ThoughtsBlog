@@ -10,7 +10,7 @@ It's my first time putting my thoughts into words. I am excited to start this jo
 
 Here it is. 
 
-At the age of 15, I've developed some dermatological problems on my face, mainly cheeks, and chest. I would get these big red spots that could take days to leave. After seeing many doctors, I was diagnost with [lupus](https://en.wikipedia.org/wiki/Systemic_lupus_erythematosus). It still didn't make any sense to me because it didn't explain all my symptoms.
+At the age of 15, I've developed some dermatological problems on my face, mainly cheeks, and chest. I would get these big red spots that could take days to leave. After seeing many doctors, I was diagnost with [lupus](https://en.wikipedia.org/wiki/Systemic_lupus_erythematosus). However, it still didn't make any sense to me because it didn't explain some of my other symptoms.
 
 In January 2014, it really started to get bad. I was tired all the time, I couldn't concentrate in class, I was more moody than ever, I've developed hormonal dysfunctions and I was so swollen that sometimes it got hard to breath, let alone get dressed. I stayed that way until June hoping it'll pass. I had to see a picture of myself to realize that something was wrong with my body and it wasn't lupus causing it. 
 
