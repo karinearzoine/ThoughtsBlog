@@ -11,7 +11,7 @@ google_analytics: UA-64155403-1
 
 # Optional features
 animated:           true
-show_related_posts: true
+show_related_posts: false
 show_post_footers:  false
 
 # Disqus post comments
@@ -23,6 +23,11 @@ show_social_icons: true
 github_username:
 twitter_username:
 linkedin_username:
+
+#Subscribe options
+show_subscribe_option: true
+subscribe_text: 'Subscribe to get more content like this one:'
+email_value: 'Your email address'
 
 # Post sharing icons
 show_sharing_icons: true

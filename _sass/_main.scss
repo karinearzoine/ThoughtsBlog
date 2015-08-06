@@ -184,6 +184,16 @@ table {
   text-align: center;
 }
 
+.button2 {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+  font-weight: 300;
+  text-align: center;
+}
+
+.email {
+  width: 240px;
+}
+
 .pagination a, .pagination .disabled {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
@@ -490,10 +500,23 @@ h6,
 
 .share-page {
   font-size:  0.65em;  
-  padding: 2em 0 0 0;
+  padding: 2em 18em 0 0;
+  display: inline-block;
 }
 
 .share-page div {
+    font-size: 1.3em;
+
+}
+
+.subscribe {
+  font-size:  0.65em;  
+  padding: 2em 0 2em 0;
+  display: inline-block;
+  width: 350px ;
+}
+
+.subscribe div {
   font-size: 1.3em;
 }
 
