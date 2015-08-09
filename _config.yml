@@ -2,9 +2,9 @@
 title:       Karine Arzoine Thoughts
 email:       karine@arzoine.me 
 author:      Karine Arzoine
-description: "Hello there! I’m a financial mathematics student and I welcome you on my web site. Feel free to contact me if you have any questions concerning my prospective career,my blog or my tutoring services. I've recently learned that I was affected with the celiac disease. It has been a life changing discovery, and I would like to share some of my experiences with you."
+description: "Hello there! I’m a financial mathematics student and I welcome you on my blog. Feel free to contact me if you have any questions concerning my prospective career,my blog or my tutoring services. I've recently learned that I was affected with the celiac disease. It has been a life changing discovery, and I would like to share some of my experiences with you."
 baseurl:     "/thoughts"
-url:         "http://karine.arzoine.me/thoughts"
+url:         "http://karine.arzoine.me/thoughts/"
 
 # Google analytics
 google_analytics: UA-64155403-1
@@ -27,7 +27,7 @@ linkedin_username:
 #Subscribe options
 show_subscribe_option: true
 subscribe_text: 'Subscribe to get more content like this one:'
-email_value: 'Your email address'
+email_value: 'your email address'
 
 # Post sharing icons
 show_sharing_icons: true
@@ -37,11 +37,11 @@ share_facebook: true
 share_twitter: true
 share_googleplus: true
 share_linkedin: true
-share_digg: false
-share_tumblr: false
+share_digg: true
+share_tumblr: true
 share_reddit: true
-share_stumbleupon: false
-share_hackernews: false
+share_stumbleupon: true
+share_hackernews: true
 
 # Build settings
 markdown:     kramdown
