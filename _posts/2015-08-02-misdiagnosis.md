@@ -5,14 +5,14 @@ date:       2015-08-02 11:21:29
 summary:    My road to a diagnosis. Lupus? Lactose intolerance? IBS? Celiac Disease!  Listen to your body. You are your best doctor. Be aware of your body and how it responds to your environment.
 ---
 
-Hello readers ! It's my first time putting my thoughts into words. I am excited to start this journey with you, but I am also very nervous. I hope you will enjoy it. 
+Hello readers ! It's my first time putting my thoughts into words. I'm excited to start this journey with you, but I'm also very nervous. I hope you will enjoy it. 
 
 Here it is. 
 
 ####[Lupus ?](https://en.wikipedia.org/wiki/Systemic_lupus_erythematosus){:target="_blank"}
-At the age of 15, I've developed some dermatological problems on my face, mainly cheeks, and chest. I would get inter alia big red spots that could take days to leave and experienced extreme fatigue and stress. After seeing many doctors, I was diagnost with lupus. However, it still didn't make any sense to me because it didn't explain some of my other symptoms.
+At the age of 15, I started getting inter alia big red spots on my cheeks and chest that could take days to leave and experienced extreme fatigue and stress. After seeing many doctors, I was diagnost with lupus. However, it didn't make any sense to me. The doctors told me that I had to wait until I developed other symptoms to start a course of treatment that would ease them but that I'll never be cured.
 
-In January 2014, it really started to get bad. I was tired all the time, I couldn't concentrate in class, I was more moody than ever, I've developed hormonal dysfunctions, knee arthritis and I was so swollen that sometimes it got hard to breath, let alone get dressed. I stayed that way until June hoping it'll pass. I had to see a picture of myself to realize that something was wrong with my body and it wasn't lupus causing it. 
+In January 2014, it really started to get bad. I was tired all the time, I couldn't concentrate in class, I was more moody than ever, I've developed hormonal dysfunctions, knee arthritis and I was so swollen that sometimes it got hard to breath, let alone get dressed. I stayed that way until June hoping it'll go away by itself. I had to see a picture of myself to realize that something was wrong with my body and it wasn't lupus causing it. 
 
 My approach was to look at the big picture, something doctors didn't do when I was a teenager. I wrote down all my symptoms and everything I thought wasn't right with my body. I was determined to find the illness that would explain them all. 
 
@@ -24,7 +24,7 @@ I stop eating lactose for a week. Although I was feeling a little better, it was
 
 
 ####[IBS ?](https://en.wikipedia.org/wiki/Irritable_bowel_syndrome){:target="_blank"}
-It explained some symptoms, but not all of them, it wasn't so. 
+I've been taking probiotic supplements for a few months, but symptoms kept developing. It eased some and didn't explain others, it wasn't so. 
 
 
 ####[Celiac disease ?](https://en.wikipedia.org/wiki/Coeliac_disease){:target="_blank"}
