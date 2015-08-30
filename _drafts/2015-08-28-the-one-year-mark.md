@@ -14,13 +14,17 @@ It took me a few months of testing before becoming completely gluten free. I had
 I would sometimes forget that I couldn't eat it. For example, my mom made couscous and I ate so much of it, it's once I finished eating that I realized what I've just done. I spent the next 3 days sick in bed.
 
 <ins>I was hungry all the time !</ins>
-<p>Bread and cheese had so much importance in my diet that, once I needed to eliminated them, I couldn't think of anything else to eat. I would cook rice or potatoes every morning to make sure that if I would get hungry, I'd have something to eat. I also started eating a lot of chips. It didn't make me feel so good about myself. 
-I was in denial and some days, I wouldn't want to eat anything because I was mad about my condition and the constraints I had. </p>
 
-<ins>I would also think about it all the time!</ins> 
-<p>I would always complain: 
-> "I want pizza, bagel with cream cheese and alfredo pasta!" It made things much harder. 
-</p>
+Bread and cheese had so much importance in my diet that, once I needed to eliminated them, I couldn't think of anything else to eat. I would cook rice or potatoes every morning to make sure that if I would get hungry, I'd have something to eat. I also started eating a lot of chips. It didn't make me feel so good about myself. 
+I was in denial and some days, I wouldn't want to eat anything because I was mad about my condition and the constraints I had.
+
+<ins>I would also think about it all the time!</ins>
+
+I would always complain:
+
+> I want pizza, bagel with cream cheese and alfredo pasta!
+
+It made things much harder. 
 
 Now, I enjoy how I eat and the well-being it provides and instead of thinking how tasty gluten and dairy meals are, I think about how poorly I felt when I would eat them and it puts me off.  
 
@@ -28,4 +32,4 @@ What kept me going was that each week, I would feel more and more like a regular
 
 I am very careful about what I eat and where I eat. If I'm invited to a party,I eat at home prior to the party and once I'm there, I will only eat raw vegetables or food that I know for sure doesn't contain any. I'd rather be safe than sorry! I really don't enjoy getting sick from cross-contamination. 
 
-My lesson for you is **Fix a goal and do everything in your power to achieve it! It might be hard, but the reward is much greater that the effort.**
+My lesson for you is **fix a goal and do everything in your power to achieve it!** It might be hard, but the reward is much greater than the effort.
