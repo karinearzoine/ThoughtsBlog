@@ -11,7 +11,7 @@ It has been an incredibly hard, but amazingly rewarding year. At first, I felt r
 
 It took me a few months of testing before becoming completely gluten free. I had no idea that some prepackaged sauces contained gluten. After getting contaminated with sauces and other food like rice noodles, I started reading carefully the list of ingredients to make sure the food I was eating didn't contain any. 
 
-I would sometimes forget that I couldn't eat it. For example, my mom made couscous and I ate so much of it, it's once I finished eating that I realized what I've just done. I spent the next 3 days sick in bed.
+I would sometimes forget that I couldn't eat it. For example, my mom prepared couscous and I ate so much of it, it's once I finished eating that I realized what I've just done. I spent the next 3 days sick in bed.
 
 <ins>I was hungry all the time !</ins>
 
@@ -21,13 +21,12 @@ I was in denial and some days, I wouldn't want to eat anything because I was mad
 
 <ins>I would also think about it all the time!</ins>
 
-I would always complain: *"I want pizza, bagel with cream cheese and alfredo pasta!"* It made things much harder.
+I would always complain: *"I want pizza, bagel with cream cheese and alfredo pasta!"* It made things harder.
 
 Now, I enjoy how I eat and the well-being it provides. Instead of thinking about how tasty gluten and dairy meals are, I think about how poorly I felt when I would eat them and it puts me off.  
 
 What kept me going was that each week, I would feel more and more like a regular 21 year old. The first thing I noticed was that with each passing day, the swelling reduced, I was able to concentrate much better in class and I wasn't tired all the time anymore. 
 
-I am very careful about what I eat and where I eat. If I'm invited to a party,I eat at home prior to the party and once I'm there, I will only eat raw vegetables or food that I know for sure doesn't contain any. I'd rather be safe than sorry! I really don't enjoy getting sick from cross-contamination. 
-
+I am very careful with what I eat and where I eat. If I'm invited to a party, I'll eat at home prior to the party and once I'm there, I'll only eat raw vegetables or food that I know for sure doesn't contain any. I'd rather be safe than sorry! I really don't enjoy getting sick from cross-contamination. 
 
 My lesson for you is **fix a goal and do everything in your power to achieve it!** It might be hard, but the reward is much greater than the effort.
