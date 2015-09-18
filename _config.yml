@@ -3,8 +3,10 @@ title:       Karine Arzoine Thoughts
 email:       karine@arzoine.me 
 author:      Karine Arzoine
 description: "Hello there! I’m a financial mathematics student and I welcome you on my blog. Feel free to contact me if you have any questions concerning my prospective career,my blog or my tutoring services. I've recently learned that I was affected with the celiac disease. It has been a life changing discovery, and I would like to share some of my experiences with you."
-baseurl:     "/thoughts"
-url:         "http://karine.arzoine.me/thoughts/"
+baseurl:      /thoughts
+url:          https://karine.arzoine.me/thoughts/
+enforce_ssl:  karine.arzoine.me/thoughts/
+
 
 # Google analytics
 google_analytics: UA-64155403-1
